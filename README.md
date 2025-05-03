@@ -28,6 +28,20 @@ Sposób interakcji z narzędziem może znacząco wpłynąć na komfort pracy:
 - **Cursor** to bardziej rozbudowane narzędzie z wieloma opcjami i panelami, co daje większą kontrolę, ale może przytłaczać początkujących użytkowników.
 - **Cline** integruje się z VS Code jako wtyczka, co jest ogromną zaletą dla programistów przyzwyczajonych do tego edytora – możesz korzystać z mocy AI bez zmiany swojego głównego środowiska pracy.
 
+
+
+## Zastosowanie w różnych zadaniach
+
+| Zadanie / Kryterium               | Cursor                              | Windsurf                             | Cline Plugin                         | Komentarz / Kiedy wybrać?                         |
+|---------------------------------|-----------------------------------|------------------------------------|------------------------------------|--------------------------------------------------|
+| Generowanie nowego kodu          | Szybkie, dobre podpowiedzi        | Dobre, automatyczne zmiany         | Elastyczne, z kontrolą nad modelami| Cursor dla szybkich podpowiedzi, Cline dla kontroli|
+| Refaktoryzacja dużych projektów | Ograniczona, wymaga kontroli      | Zaawansowana, automatyczna         | Zaawansowana, z możliwością planowania| Windsurf i Cline do dużych projektów             |
+| Integracja z VS Code             | Tak, ale własny edytor            | Tak, ale bardziej samodzielny      | Wtyczka VS Code, pełna integracja | Cline idealny dla użytkowników VS Code            |
+| Automatyzacja i agent AI        | Agent z zatwierdzeniami           | Cascade – bardziej autonomiczny    | Zaawansowana kontrola etapów       | Windsurf dla automatyzacji, Cline dla kontroli   |
+| Zarządzanie kosztami             | Droższy, rozliczenia za akcje     | Tańszy, abonament                  | Zależne od API, optymalizacja możliwa | Windsurf ekonomiczny, Cline elastyczny           |
+| Łatwość użycia                  | Więcej opcji, bardziej skomplikowany | Prostota i intuicyjność            | Znany interfejs VS Code             | Windsurf dla początkujących, Cline dla devów VS Code |
+
+
 ## Automatyzacja i agenci AI
 
 Nowoczesne narzędzia AI oferują funkcje automatyzacji zadań:
@@ -56,6 +70,7 @@ Koszty to istotny czynnik, szczególnie dla zespołów i firm:
 | Dla początkujących programistów | Windsurf | Intuicyjny, prosty interfejs |
 | Dla zaawansowanych deweloperów | Cline/Cursor | Większa kontrola nad procesem i zaawansowane funkcje |
 
+
 ## Podsumowanie
 
 Wybór idealnego narzędzia AI do programowania powinien być dopasowany do konkretnych potrzeb:
@@ -65,5 +80,22 @@ Wybór idealnego narzędzia AI do programowania powinien być dopasowany do konk
 - **Cline** to najlepszy wybór dla programistów preferujących VS Code, ceniących precyzyjną kontrolę nad modelami AI i procesem generowania kodu.
 
 W dynamicznie zmieniającym się świecie narzędzi AI do programowania, warto eksperymentować i znaleźć rozwiązanie, które najlepiej odpowiada Twojemu stylowi pracy i potrzebom zespołu. A Ty, którego narzędzia używasz i jakie są Twoje doświadczenia?
+
+
+
+---
+
+## Źródła[1] Roo Code vs Cursor vs Windsurf vs Cline - Reddit[2] Windsurf vs Cursor: which is the better AI code editor? - Builder.io[4] Windsurf vs Cline: Which Tool Is Better? - YouTube[5] Cursor vs Windsurf: An In-Depth Comparison - Appy Pie Automate
+
+Citations:
+[1] https://www.reddit.com/r/ChatGPTCoding/comments/1j047qy/roo_code_vs_cursor_vs_windsurf_vs_cline_help_me/?tl=pl
+[2] https://www.builder.io/blog/windsurf-vs-cursor
+[3] https://www.reddit.com/r/ChatGPTCoding/comments/1ioojwq/for_those_with_experience_cursor_windsurf_or/?tl=pl
+[4] https://www.youtube.com/watch?v=negU2iCoDVA
+[5] https://www.appypieautomate.ai/blog/cursor-vs-windsurf-ai-code-editor
+[6] https://www.builder.io/blog/cursor-vs-windsurf-vs-github-copilot
+[7] https://sourceforge.net/software/compare/Cline-AI-vs-Cursor/
+[8] https://www.wisp.blog/blog/whats-windsurf-how-does-it-compare-with-cursor
+
 
 
